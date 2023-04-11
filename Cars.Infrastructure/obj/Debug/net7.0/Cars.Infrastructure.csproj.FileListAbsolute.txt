@@ -1,0 +1,17 @@
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Infrastructure\bin\Debug\net7.0\Cars.Infrastructure.deps.json
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Infrastructure\bin\Debug\net7.0\Cars.Infrastructure.dll
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Infrastructure\bin\Debug\net7.0\Cars.Infrastructure.pdb
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Infrastructure\obj\Debug\net7.0\Cars.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Infrastructure\obj\Debug\net7.0\Cars.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Infrastructure\obj\Debug\net7.0\Cars.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Infrastructure\obj\Debug\net7.0\Cars.Infrastructure.AssemblyInfo.cs
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Infrastructure\obj\Debug\net7.0\Cars.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Infrastructure\obj\Debug\net7.0\Cars.Infrastructure.dll
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Infrastructure\obj\Debug\net7.0\refint\Cars.Infrastructure.dll
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Infrastructure\obj\Debug\net7.0\Cars.Infrastructure.pdb
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Infrastructure\obj\Debug\net7.0\ref\Cars.Infrastructure.dll
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Infrastructure\bin\Debug\net7.0\Cars.Application.dll
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Infrastructure\bin\Debug\net7.0\Cars.Application.pdb
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Infrastructure\obj\Debug\net7.0\Cars.Infrastructure.csproj.CopyComplete
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Infrastructure\bin\Debug\net7.0\Cars.Domain.dll
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Infrastructure\bin\Debug\net7.0\Cars.Domain.pdb

@@ -1,0 +1,15 @@
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Application\bin\Debug\net7.0\Cars.Application.deps.json
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Application\bin\Debug\net7.0\Cars.Application.dll
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Application\bin\Debug\net7.0\Cars.Application.pdb
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Application\obj\Debug\net7.0\Cars.Application.csproj.AssemblyReference.cache
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Application\obj\Debug\net7.0\Cars.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Application\obj\Debug\net7.0\Cars.Application.AssemblyInfoInputs.cache
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Application\obj\Debug\net7.0\Cars.Application.AssemblyInfo.cs
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Application\obj\Debug\net7.0\Cars.Application.csproj.CoreCompileInputs.cache
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Application\obj\Debug\net7.0\Cars.Application.dll
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Application\obj\Debug\net7.0\refint\Cars.Application.dll
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Application\obj\Debug\net7.0\Cars.Application.pdb
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Application\obj\Debug\net7.0\ref\Cars.Application.dll
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Application\bin\Debug\net7.0\Cars.Domain.dll
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Application\bin\Debug\net7.0\Cars.Domain.pdb
+C:\Users\38160\OneDrive\Documents\NSI\Cars\Cars.Application\obj\Debug\net7.0\Cars.Application.csproj.CopyComplete
